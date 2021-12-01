@@ -716,7 +716,7 @@ mark, .mark {
         -ms-flex-direction: column;
             flex-direction: column;
         -ms-flex-pack: justify;
-        justify-content: space-between;
+        
     }
 
     .hero__icon {
@@ -1717,6 +1717,7 @@ mark, .mark {
 
 .btn {
     font-weight: 500;
+        font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 0 15px;
